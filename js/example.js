@@ -1,5 +1,5 @@
 // a global variable pointing to the Ginsberg API
-var apiPath = "http://api.project-ginsberg.com:2404";
+var apiPath = "https://api.project-ginsberg.com";
 
 // jquery's document.ready event
 $().ready(function(){
